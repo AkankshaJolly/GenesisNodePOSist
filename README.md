@@ -1,5 +1,7 @@
 # GenesisNodePOSist
 
+Solution for POSist coding test
+
 Using data structure and programming language of your choice, design an efficient application that realises the
 following tasks:
 
@@ -18,3 +20,9 @@ decrypting the data, and comparing the hash values. The new owner then encrypts 
 9. Find the longest chain of any node.
 10. Merge 2 nodes; data is added of the 2 nodes, ownership of the longer chain node are retained after a
 merge operation.
+
+
+#Steps to compile the code
+1. Run the code and select the option from the menu.
+2. Input the required values.
+3. Get the desired output
